@@ -1,0 +1,1 @@
+This is just a UI in which you can add your necessary tasks which needs to be done. The tasks will be stored in your Local Storage and there are other functionalitites added in the code. Code is in readable and i hope you will be able to easily understand what's happening. 
